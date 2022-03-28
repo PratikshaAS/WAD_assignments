@@ -1,0 +1,11 @@
+.todo__container ol{
+    font-size: 24px;
+    color: black;
+}
+
+.todo__container{
+    text-align: center;
+    border: 2px solid maroon;
+    border-radius: 25px;
+    background-color: aliceblue;
+}
